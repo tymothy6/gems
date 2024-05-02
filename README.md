@@ -7,5 +7,6 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | How we self-sabotage  | https://www.positiveintelligence.com/saboteurs/   |         |
 | The React.js documentary  | https://www.youtube.com/watch?v=8pDqJVdNa44   |         |
 | Don't ask to ask | https://dontasktoask.com/   |    Question etiquette 101     |
+| Making Sense of React Server Components | https://www.joshwcomeau.com/react/server-components/   |    The definitive guide to RSCs     | 
 
 
