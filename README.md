@@ -1,5 +1,5 @@
 # Gems
-Not-so-organized collection of career development, blog posts &amp; technical resources I enjoyed reading
+Not-so-organized collection of career development, blog posts &amp; technical resources
 
 | Resource  | Link |  Notes  |
 | -------- | ------- | ------- |
