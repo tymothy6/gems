@@ -1,6 +1,8 @@
 # Gems
 Not-so-organized collection of career development, blog posts &amp; technical resources
 
+## 2024
+
 | Resource  | Link |  Notes  |
 | -------- | ------- | ------- |
 | Ground Truths | https://erictopol.substack.com/ | Facts, data, and analytics about biomedical matters from Eric Topol ([Scripps Institute](https://www.scripps.edu/)) on Substack
