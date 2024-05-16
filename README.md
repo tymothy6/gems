@@ -15,7 +15,7 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | Building a drawer component (React) | https://emilkowal.ski/ui/building-a-drawer-component | Great read on design decisions made for [Vaul](https://github.com/emilkowalski/vaul)
 | The psychology of a blameless retrospective | https://opensource.com/article/19/4/psychology-behind-blameless-retrospective | Discusses skills that can be applied outside of an Agile environment
 | Data-driven design | https://christopherkaiwong.gumroad.com/l/umwxi | Also see Christopher Kai Wong on [Substack](https://dataanddesign.substack.com/)
-| Ground Truths (Eric Topol) | https://erictopol.substack.com/ | Facts, data, and analytics about biomedical matters from Eric Topol ([Scripps Institute](https://www.scripps.edu/)) on Substack
+| Ground Truths | https://erictopol.substack.com/ | Facts, data, and analytics about biomedical matters from Eric Topol ([Scripps Institute](https://www.scripps.edu/)) on Substack
 
 
 
