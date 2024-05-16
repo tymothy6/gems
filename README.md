@@ -12,6 +12,10 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | What's next for a global design system | https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/ | Follow up on a global design system
 | The psychology of a blameless retrospective | https://opensource.com/article/19/4/psychology-behind-blameless-retrospective | Discusses skills that can be applied outside of an Agile environment
 | Better dynamic themes in Tailwind with OKLCH color magic | https://evilmartians.com/chronicles/better-dynamic-themes-in-tailwind-with-oklch-color-magic | See this [link](https://codepen.io/Anton-Lovchikov/pen/XWoxYOV) for a demo of LCH vs HSL theming
+| Building a drawer component (React) | https://emilkowal.ski/ui/building-a-drawer-component | Great read on design decisions made for [Vaul](https://github.com/emilkowalski/vaul)
+| The psychology of a blameless retrospective | https://opensource.com/article/19/4/psychology-behind-blameless-retrospective | Discusses skills that can be applied outside of an Agile environment
+| Data-driven design | https://christopherkaiwong.gumroad.com/l/umwxi | Also see Christopher Kai Wong on [Substack](https://dataanddesign.substack.com/)
+| Ground Truths (Eric Topol) | https://erictopol.substack.com/ | Facts, data, and analytics about biomedical matters from Eric Topol ([Scripps Institute](https://www.scripps.edu/)) on Substack
 
 
 
