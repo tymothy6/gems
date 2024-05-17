@@ -18,6 +18,7 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | Building a drawer component (React) | https://emilkowal.ski/ui/building-a-drawer-component | Great read on design decisions made for [Vaul](https://github.com/emilkowalski/vaul)
 | The psychology of a blameless retrospective | https://opensource.com/article/19/4/psychology-behind-blameless-retrospective | Discusses relevant skills that can be applied outside of an Agile environment
 | Data-driven design | https://christopherkaiwong.gumroad.com/l/umwxi | Also see Christopher Kai Wong on [Substack](https://dataanddesign.substack.com/)
+| Designing APIs for humans (series) | https://dev.to/paulasjes/series/19794 | 4-part series on API design principles
 
 
 
