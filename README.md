@@ -18,6 +18,8 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | Building a drawer component (React) | https://emilkowal.ski/ui/building-a-drawer-component | Great read on design decisions made for [Vaul](https://github.com/emilkowalski/vaul)
 | Data-driven design | https://christopherkaiwong.gumroad.com/l/umwxi | Also see Christopher Kai Wong on [Substack](https://dataanddesign.substack.com/)
 | Designing APIs for humans (series) | https://dev.to/paulasjes/series/19794 | 4-part series on API design principles
+| Footer.design | https://www.footer.design/ | Need inspiration for a footer? Look here
+| Progression.fyi | https://progression.fyi/ | Collection of public and open source career frameworks
 
 
 
