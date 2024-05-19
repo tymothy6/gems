@@ -20,6 +20,7 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | Designing APIs for humans (series) | https://dev.to/paulasjes/series/19794 | 4-part series on API design principles
 | Footer.design | https://www.footer.design/ | Need inspiration for a web footer? 👀
 | Progression.fyi | https://progression.fyi/ | Collection of public and open source career frameworks
+| ML system design: 300 case studies to learn from | https://www.evidentlyai.com/ml-system-design | |
 
 
 
