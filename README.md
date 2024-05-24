@@ -21,6 +21,7 @@ Not-so-organized collection of career development, blog posts &amp; technical re
 | Footer.design | https://www.footer.design/ | Need inspiration for a web footer? 👀
 | Progression.fyi | https://progression.fyi/ | Collection of public and open source career frameworks
 | ML system design: 300 case studies to learn from | https://www.evidentlyai.com/ml-system-design | |
+| Inline styles on steroids | https://weser.io/blog/inline-styles-on-steroids | CSS hooks & the future of inline style nesting |
 
 
 
